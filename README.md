@@ -511,7 +511,13 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+<<<<<<< HEAD
     - [ ] Implement a vector (mutable array with automatic resizing):
+=======
+        - [Jagged Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
+        - [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
+    - [X] Implement a vector (mutable array with automatic resizing):
+>>>>>>> c728f1a (Marked x)
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] New raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
